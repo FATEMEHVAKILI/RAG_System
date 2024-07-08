@@ -22,3 +22,9 @@ If you want to use it with Fast API, follow these instructions:
  ```bash
  uvicorn main:app --reload
 ```
+Also, you need .env file for OPENAI_API_KEY and PINECOINE_API_KEY:
+ ```bash
+OPENAI_API_KEY = 'YOUR_API_KEY'
+PINECONE_API_KEY = 'YOUR_API_KEY'
+PINECONE_ENVIRONMENT = 'YOUR_ENVIRONMENT'
+ ```
