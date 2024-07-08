@@ -9,7 +9,11 @@ For more info:
 - [Resume](https://fatemehvakili.github.io/)
 
 ------------------
-The repository now contains a project based on RAG systems. You can use the RAG system by running the file RAGwithoutFastAPI.py :
+The repository contains a project based on RAG systems. 
+To set up the required dependencies for the code, use the command below:
+```bash
+pip install -r requirements.txt```
+You can use the RAG system by running the file RAGwithoutFastAPI.py :
  ```bash
 python RAGwithoutFastAPI.py
 ```
