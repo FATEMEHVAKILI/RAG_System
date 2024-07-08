@@ -5,10 +5,9 @@ Hey, the repository now contains a project based on RAG systems. You can use the
 
 
 # [RAG_System](https://github.com/FATEMEHVAKILI/RAG_System) 
----------------------------------------
+
 - [GitHub](https://github.com/FatemehVakili/)
 
 - [Resume](https://fatemehvakili.github.io/)
 
-- [SOP](https://FatemehVakili.github.io/SOP/)
 ------------------
